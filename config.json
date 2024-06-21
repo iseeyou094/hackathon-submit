@@ -1,0 +1,5 @@
+{
+    "ignore_paths": ["node_modules", ".git"],
+    "ignore_extensions": [".log", ".tmp", ".png", ".jpg", ".img", ".mbr"]
+  }
+  
