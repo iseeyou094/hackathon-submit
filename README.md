@@ -1,3 +1,9 @@
+------------
+当时比较希望用 0G 构建一个去中心化的代理服务，这样人们可以更方便地使用 web3
+主要用到 clash 的一些代码，但还处于半成品阶段。
+
+
+
 DAPP trying to build a software with 0G tech.
 
 - Inbound: HTTP, HTTPS, SOCKS5 server, TUN device
@@ -8,5 +14,3 @@ DAPP trying to build a software with 0G tech.
 - Proxy Groups: automatic fallback, load balancing or latency testing
 - Remote Providers: load remote proxy lists dynamically
 - RESTful API: update configuration in-place via a comprehensive API
-
-*Some of the features may only be available in the [Premium core](https://dreamacro.github.io/clash/premium/introduction.html).*
